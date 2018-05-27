@@ -1,6 +1,5 @@
 from PIL import Image, ImageDraw
 import random
-import itertools
 from stego.container import Container
 
 def flip(i, j):
