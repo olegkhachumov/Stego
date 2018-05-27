@@ -1,6 +1,5 @@
 from PIL import Image, ImageEnhance
 import matplotlib.pyplot as plt
-import numpy as np
 
 """
 Модуль преднозначен для создания гистограмм изображения. 
