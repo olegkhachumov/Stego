@@ -29,7 +29,7 @@ pip install matplotlib
 -------------
 
 ```bash
-Stego.py
+StegoConsole.py
 
 Usage:
   для вызова справки:
